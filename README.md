@@ -1,7 +1,4 @@
-*Un enfoque altamente razonable para JavaScript* {
-
-> **Nota**: Esta guía asume que usas [Babel](https://babeljs.io), adicionalmente de tener instalado [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) o su equivalente. También asume que tienes instalado shims/pollyfills en tu aplicación, con 
-[airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) o su equivalente.
+*Un enfoque altamente razonable para JavaScript*
 
 ## Tabla de Contenido
 
@@ -2176,3 +2173,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 Te recomendamos hacer fork de esta guía y cambiar las reglas para que se adecúen a la guía de estilos de tu equipo. Abajo podrás encontrar algunas enmiendas a la guía de estilos. Esto te permitirá actualizar periódicamente tu guía de estilos sin tener que lidiar con conflictos al hacer merge.
 
 # };
+
+> **Nota**: Esta guía asume que usas [Babel](https://babeljs.io), adicionalmente de tener instalado [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) o su equivalente. También asume que tienes instalado shims/pollyfills en tu aplicación, con 
+[airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) o su equivalente.
